@@ -85,6 +85,7 @@ article{
 
 div#maincontent{
 	background-color:#ffffff;
+	margin:0;
 	}
 	
 h2, p, dl{
