@@ -155,15 +155,13 @@ div#peoplenetgallery img:hover{
 	border: 6px solid #e8900c;
 }
 
-.clearleft{
-	clear:left;
-	}
 
 /* end gallery---------------------------------------------------------------------*/
 
 /* footer---------------------------------------------------------------------------*/
 
 footer ul{
+	clear:left;
 	background-color:#ff7b00;
 	list-style-type:none;
 	margin:auto;
