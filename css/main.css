@@ -80,14 +80,14 @@ div#equipmentgallery ul li{
 
 div#equipmentgallery ul li a{
 	border-width: 10px;
-	border-color: #fa58d0;
+	border-color: #e85200;
 	display: block;
 	height: 140px;
 	width: 100px;
 }
 
 div#equipmentgallery img{
-	border: 6px solid #fa58d0;
+	border: 6px solid #e85200;
 }
 
 div#equipmentgallery li{
@@ -99,3 +99,6 @@ div#equipmentgallery li{
 div#equipmentgallery img:hover{
 	border: 6px solid #40ff00;
 }
+
+/* end gallery---------------------------------------------------------------------*/
+
