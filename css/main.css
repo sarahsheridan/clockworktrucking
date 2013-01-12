@@ -111,7 +111,7 @@ div#equipmentgallery img:hover{
 footer ul{
 	background-color:#ff7b00;
 	list-style-type:none;
-	margin:0;
+	margin:auto;
 	padding:0;
 	overflow:hidden;
 	}
