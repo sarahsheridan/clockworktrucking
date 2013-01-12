@@ -79,7 +79,7 @@ div#indeximage{
 	}
 	
 article{
-	clear:float;
+	clear:left;
 	}
 
 /* equipmentgallery-----------------------------------------------------------------------*/
