@@ -87,7 +87,7 @@ div#maincontent{
 	background-color:#ffffff;
 	}
 	
-h2 p dl{
+h2, p, dl{
 	padding: 20px;
 	}
 	
