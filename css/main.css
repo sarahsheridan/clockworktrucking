@@ -34,7 +34,7 @@ h1 a:link,a:visited{
 	}
 	
 h1 a:hover,a:active{
-	background-color:#e85200;
+	text-shadow: 1px 1px 10px #ff3a00;
 	}
 /*--------------------------------------------nav*/
 
