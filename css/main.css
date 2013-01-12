@@ -70,6 +70,8 @@ nav ul li a:hover,a:active{
 
 /* end nav-------------------------------------------*/
 
+/*general site elements--------------------------------------------------------------------*/
+
 div#indeximage{
 	float:left;
 	margin:30px;
@@ -81,6 +83,9 @@ div#indeximage{
 article{
 	clear:left;
 	}
+
+/* general site elements end---------------------------------------------------------------*/
+
 
 /* equipmentgallery-----------------------------------------------------------------------*/
 
@@ -110,6 +115,43 @@ div#equipmentgallery li{
 }
 
 div#equipmentgallery img:hover{
+	border: 6px solid #e8900c;
+}
+
+.clearleft{
+	clear:left;
+	}
+
+/* end gallery---------------------------------------------------------------------*/
+
+/* equipmentgallery-----------------------------------------------------------------------*/
+
+div#peoplenetgallery ul li{
+	float: left;
+	margin: 14px;
+	padding: 10px;
+	display: block;
+}
+
+div#peoplenetgallery ul li a{
+	border-width: 10px;
+	border-color: #e85200;
+	display: block;
+	height: 140px;
+	width: 100px;
+}
+
+div#peoplenetgallery img{
+	border: 6px solid #e85200;
+}
+
+div#peoplenetgallery li{
+	list-style-type:none;
+	display: inline-block;
+	padding:0px;
+}
+
+div#peoplenetgallery img:hover{
 	border: 6px solid #e8900c;
 }
 
