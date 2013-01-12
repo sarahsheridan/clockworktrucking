@@ -103,5 +103,5 @@ div#equipmentgallery img:hover{
 /* end gallery---------------------------------------------------------------------*/
 
 .clearleft{
-	float:none;
+	clear:left;
 	}
