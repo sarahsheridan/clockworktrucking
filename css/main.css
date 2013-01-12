@@ -115,15 +115,20 @@ footer ul{
 	padding:0;
 	overflow:hidden;
 	}
+	
 footer ul li{
+	display: block-inline;
 	float:left;
+	margin: 50px;
 	}
+	
 footer ul li a:link,a:visited{
 	font-weight:bold;
 	color:#000000;
 	text-align:center;
 	padding:10px;
 	}
+	
 footer ul li a:hover,a:active{
 	color:#ff7b00;
 	}
