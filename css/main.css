@@ -13,3 +13,34 @@ body{
 	background-color: #fff;
 }
 
+/*---------------------------------------------header*/
+
+
+/*--------------------------------------------nav*/
+
+nav ul{
+	list-style-type:none;
+	margin:0;
+	padding:0;
+	overflow:hidden;
+	}
+	
+li{
+	float:left;
+	}
+	
+a:link,a:visited{
+	display:block;
+	width:120px;
+	font-weight:bold;
+	color:#000000;
+	background-color:#ff7b00;
+	text-align:center;
+	padding:4px;
+	text-decoration:none;
+	}
+	
+a:hover,a:active
+{
+background-color:#ff3a00;
+}
