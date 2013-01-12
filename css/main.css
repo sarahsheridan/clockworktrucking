@@ -1,0 +1,15 @@
+/* ------------------------------------------ colors
+	main orange  ff7b00
+	dk bright orange ff3a00
+ 	dk dull orange e85200
+ 	lt dull orange e8900c
+ 	yellow orange ffb40d-- */
+ 
+ 	
+body{
+	width: 960px;
+	font-family: 'Scada', sans-serif;
+	margin: 0 auto;
+	background-color: #000;
+}
+
