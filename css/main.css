@@ -73,7 +73,8 @@ nav ul li a:hover,a:active{
 div#indeximage{
 	float:left;
 	padding;10px:
-	border:10px solid #4f4f4f
+	border:10px solid #4f4f4f;
+	float:left;
 	}
 
 /* equipmentgallery-----------------------------------------------------------------------*/
