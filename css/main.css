@@ -25,11 +25,11 @@ nav ul{
 	overflow:hidden;
 	}
 	
-li{
+nav ul li{
 	float:left;
 	}
 	
-a:link,a:visited{
+nav ul li a:link,a:visited{
 	display:block;
 	width:120px;
 	font-weight:bold;
