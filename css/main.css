@@ -26,10 +26,16 @@ h1{
 	margin: 0 auto;
 	float: left;
 	}
-h1 a{
+	
+h1 a:link,a:visited{
 	text-decoration:none;
+	width: 400px;
+	height: 60px;
 	}
 	
+h1 a:hover,a:active{
+	background-color:#e85200;
+	}
 /*--------------------------------------------nav*/
 
 nav ul{
@@ -55,7 +61,6 @@ nav ul li a:link,a:visited{
 	line-height: 60px;
 	}
 	
-a:hover,a:active
-{
-background-color:#e85200;
-}
+nav ul li a:hover,a:active{
+	background-color:#e85200;
+	}
