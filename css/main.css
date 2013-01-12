@@ -119,7 +119,7 @@ footer ul{
 footer ul li{
 	display: block-inline;
 	float:left;
-	margin: 50px;
+	margin:0, 50;
 	}
 	
 footer ul li a:link,a:visited{
