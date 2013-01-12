@@ -73,9 +73,7 @@ nav ul li a:hover,a:active{
 /*general site elements--------------------------------------------------------------------*/
 
 div#indeximage{
-	float:left;
 	margin:30px;
-	padding:0;
 	border:10px solid #4f4f4f;
 	float:left;
 	}
