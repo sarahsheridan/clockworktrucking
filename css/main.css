@@ -66,10 +66,10 @@ nav ul li a:hover,a:active{
 	}
 	
 	
-/*----------------------------------------------image gallery*/
 
 
-/* gallery-----------------------------------------------------------------------*/
+
+/* equipmentgallery-----------------------------------------------------------------------*/
 
 div#equipmentgallery ul li{
 	float: left;
@@ -100,8 +100,32 @@ div#equipmentgallery img:hover{
 	border: 6px solid #e8900c;
 }
 
-/* end gallery---------------------------------------------------------------------*/
-
 .clearleft{
 	clear:left;
 	}
+
+/* end gallery---------------------------------------------------------------------*/
+
+/* footer---------------------------------------------------------------------------*/
+
+footer ul{
+	background-color:#ff7b00;
+	list-style-type:none;
+	margin:0;
+	padding:0;
+	overflow:hidden;
+	}
+footer ul li{
+	float:left;
+	}
+footer ul li a:link,a:visited{
+	font-weight:bold;
+	color:#000000;
+	text-align:center;
+	padding:10px;
+	}
+footer ul li a:hover,a:active{
+	color:#ff7b00;
+	}
+	
+/* end footer------------------------------------------------------------------------*/
