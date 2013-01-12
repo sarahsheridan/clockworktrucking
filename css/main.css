@@ -67,7 +67,14 @@ nav ul li a:link,a:visited{
 nav ul li a:hover,a:active{
 	background-color:#e85200;
 	}
-	
+
+/* end nav-------------------------------------------*/
+
+div#indeximage{
+	float:left;
+	padding;10px:
+	border:10px solid #4f4f4f
+	}
 
 /* equipmentgallery-----------------------------------------------------------------------*/
 
