@@ -77,6 +77,10 @@ div#indeximage{
 	border:10px solid #4f4f4f;
 	float:left;
 	}
+	
+article{
+	clear:float;
+	}
 
 /* equipmentgallery-----------------------------------------------------------------------*/
 
