@@ -49,6 +49,7 @@ nav ul li a:link,a:visited{
 	background-color:#ff7b00;
 	text-align:center;
 	text-decoration:none;
+	line-height: 60px;
 	}
 	
 a:hover,a:active
