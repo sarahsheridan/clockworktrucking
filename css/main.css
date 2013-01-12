@@ -23,7 +23,7 @@ h1{
 	text-shadow: 1px 1px 10px #ffb40d;
 	line-height: 60px;
 	text-align: center;
-	color: #00000000;
+	color: #0000000;
 	width: 400px;
 	height: 60px;
 	margin: 0 auto;
@@ -179,7 +179,7 @@ footer ul{
 	}
 	
 footer ul li{
-	display: block-inline;
+	display: inline-block;
 	float:left;
 	margin: 0px 90px 0px 90px;
 	}
