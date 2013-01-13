@@ -35,6 +35,9 @@ h2, p, dl{
 	padding: 20px;
 	}
 	
+aside{
+	background-image: url("../images/ontheroad.jpg")
+	}
 	
 /* general site elements end---------------------------------------------------------------*/
 
