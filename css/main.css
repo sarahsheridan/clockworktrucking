@@ -58,6 +58,7 @@ aside a:link, a:visited{
 	
 aside a:hover, a:active{
 	color: #055A27;
+	text-shadow: 1px 1px 10px #ffb40d;
 	}
 	
 /* general site elements end---------------------------------------------------------------*/
