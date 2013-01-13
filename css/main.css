@@ -40,8 +40,12 @@ aside{
 	color: #ffffff;
 	}
 
-aside a{
+aside a:link,a:visited{
 	color: #ffffff;
+	}
+	
+aside a:hover, a:active{
+	color: #055A27;
 	}
 	
 /* general site elements end---------------------------------------------------------------*/
