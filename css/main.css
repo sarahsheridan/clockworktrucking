@@ -36,11 +36,13 @@ h2, p, dl{
 	}
 	
 aside{
+	width: 960px;
+	height: 200px;
 	background-image: url("../images/ontheroad.jpg");
 	color: #ffffff;
 	}
 
-aside a:link,a:visited{
+aside a:link, a:visited{
 	color: #ffffff;
 	}
 	
