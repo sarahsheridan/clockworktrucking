@@ -3,7 +3,7 @@
 	dk bright orange ff3a00
  	dk dull orange e85200
  	lt dull orange e8900c
- 	yellow orange ffb40d-- */
+ 	yellow orange ffb40d---------------------------------- */
  
  	
 body{
@@ -38,7 +38,8 @@ h2, p, dl{
 	
 /* general site elements end---------------------------------------------------------------*/
 
-/*---------------------------------------------header*/
+/*------------------------------------------------------------------------------------header*/
+
 header{
 	background-color: #ff7b00;
 	}
@@ -64,7 +65,8 @@ h1 a:link,a:visited{
 h1 a:hover,a:active{
 	text-shadow: 1px 1px 10px #ff3a00;
 	}
-/*--------------------------------------------nav*/
+	
+/*---------------------------------------------------------------------------------------nav*/
 
 nav ul{
 	list-style-type:none;
