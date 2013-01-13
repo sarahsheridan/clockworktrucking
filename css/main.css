@@ -13,6 +13,31 @@ body{
 	background-color: #4f4f4f;
 }
 
+/*general site elements--------------------------------------------------------------------*/
+
+div#indeximage{
+	margin:30px;
+	border:10px solid #4f4f4f;
+	float:left;
+	}
+	
+article{
+	clear:left;
+	padding:0px 20px;
+	}
+
+div#maincontent{
+	background-color:#ffffff;
+	margin:0;
+	}
+	
+h2, p, dl{
+	padding: 20px;
+	}
+	
+	
+/* general site elements end---------------------------------------------------------------*/
+
 /*---------------------------------------------header*/
 header{
 	background-color: #ff7b00;
@@ -70,30 +95,7 @@ nav ul li a:hover,a:active{
 
 /* end nav-------------------------------------------*/
 
-/*general site elements--------------------------------------------------------------------*/
 
-div#indeximage{
-	margin:30px;
-	border:10px solid #4f4f4f;
-	float:left;
-	}
-	
-article{
-	clear:left;
-	padding:0px 20px;
-	}
-
-div#maincontent{
-	background-color:#ffffff;
-	margin:0;
-	}
-	
-h2, p, dl{
-	padding: 20px;
-	}
-	
-	
-/* general site elements end---------------------------------------------------------------*/
 
 
 /* equipmentgallery-----------------------------------------------------------------------*/
