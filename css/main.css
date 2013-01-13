@@ -40,6 +40,10 @@ aside h2{
 	padding: 10px;
 	}
 	
+aside p{
+	font-size: 24px;
+	}
+	
 aside{
 	width: 960px;
 	height: 200px;
