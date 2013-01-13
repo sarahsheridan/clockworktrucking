@@ -35,6 +35,10 @@ h2, p, dl{
 	padding: 20px;
 	}
 	
+aside h2{
+	font-size: 28px;
+	}
+	
 aside{
 	width: 960px;
 	height: 200px;
