@@ -39,6 +39,10 @@ aside{
 	background-image: url("../images/ontheroad.jpg");
 	color: #ffffff;
 	}
+
+aside a{
+	color: #ffffff;
+	}
 	
 /* general site elements end---------------------------------------------------------------*/
 
