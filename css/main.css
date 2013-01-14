@@ -31,10 +31,14 @@ div#maincontent{
 	margin:0 auto;
 	}
 	
-h2, p, dl{
+h2, p{
 	padding: 20px;
 	}
-	
+
+dl{
+	pading: 0px 0px 20px;
+	}
+
 aside h2{
 	font-size: 34px;
 	padding: 20px 100px;
