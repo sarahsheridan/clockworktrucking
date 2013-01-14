@@ -129,6 +129,10 @@ nav ul li a:hover, nav ul li a:active{
 
 /* equipmentgallery-----------------------------------------------------------------------*/
 
+div#equipmentgallery ul{
+	border: 20px;
+	}
+	
 div#equipmentgallery ul li{
 	float: left;
 	margin: 14px;
