@@ -172,6 +172,12 @@ div#equipmentgallery img:hover{
 
 /* equipmentgallery-----------------------------------------------------------------------*/
 
+div#peoplenetgallery ul{
+	width: 760px;
+	border: 20px;
+	border-color: #e85200;
+	}
+	
 div#peoplenetgallery ul li{
 	float: left;
 	margin: 14px;
