@@ -52,11 +52,11 @@ aside{
 	color: #ffffff;
 	}
 
-aside a:link, a:visited{
+aside a:link, aside a:visited{
 	color: #ffffff;
 	}
 	
-aside a:hover, a:active{
+aside a:hover, aside a:active{
 	color: #055A27;
 	text-shadow: 1px 1px 10px #000000;
 	}
