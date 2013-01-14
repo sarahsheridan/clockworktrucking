@@ -31,7 +31,9 @@ a:hover, a:active{
 article{
 	background-color:#ffffff;
 	margin:0 auto;
-	}#indeximage{
+	}
+	
+#indeximage{
 	margin:30px;
 	border:10px solid #4f4f4f;
 	float:left;
@@ -93,6 +95,7 @@ article{
 	background-color:#ffffff;
 	margin:0 auto;
 	}
+	
 /* general site elements end---------------------------------------------------------------*/
 
 /*------------------------------------------------------------------------------------header*/
@@ -166,6 +169,7 @@ nav a:hover, nav a:active{
 #equipmentgallery ul{
 	width: 760px;
 	border: 20px;
+	margin: 50px;
 	border-color: #e85200;
 	}
 	
