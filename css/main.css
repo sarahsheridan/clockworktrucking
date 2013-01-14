@@ -130,7 +130,9 @@ nav ul li a:hover, nav ul li a:active{
 /* equipmentgallery-----------------------------------------------------------------------*/
 
 div#equipmentgallery ul{
+	width: 760px;
 	border: 20px;
+	border-color: e85200;
 	}
 	
 div#equipmentgallery ul li{
