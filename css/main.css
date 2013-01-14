@@ -25,7 +25,16 @@ article{
 	clear:left;
 	padding:0px 20px;
 	}
+	
+div#drivertools a:link, div#drivertools a:visited{
+	color: #ffffff;
+	}
 
+div#drivertools a:hover, div#drivertools a:active{
+	color: #055A27;
+	text-shadow: 1px 1px 10px #000000;
+	}
+	
 div#maincontent{
 	background-color:#ffffff;
 	margin:0 auto;
@@ -52,11 +61,11 @@ aside{
 	color: #ffffff;
 	}
 
-aside a:link, a:visited{
+aside a:link, aside a:visited{
 	color: #ffffff;
 	}
 	
-aside a:hover, a:active{
+aside a:hover, aside a:active{
 	color: #055A27;
 	text-shadow: 1px 1px 10px #000000;
 	}
