@@ -175,6 +175,7 @@ div#equipmentgallery img:hover{
 div#peoplenetgallery ul{
 	width: 760px;
 	border: 20px;
+	background-color: #000000;
 	border-color: #e85200;
 	margin: 20px;
 	}
