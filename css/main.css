@@ -26,11 +26,11 @@ article{
 	padding:0px 20px;
 	}
 	
-div#drivertools a:link, div#drivertools a:visited{
+div#maincontent a:link, div#maincontent a:visited{
 	color: #ffffff;
 	}
 
-div#drivertools a:hover, div#drivertools a:active{
+div#maincontent a:hover, div#maincontent a:active{
 	color: #055A27;
 	text-shadow: 1px 1px 10px #000000;
 	}
