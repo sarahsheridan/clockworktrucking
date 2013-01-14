@@ -32,6 +32,10 @@ div#maincontent{
 	margin:0 auto;
 	}
 	
+div#maincontent img{
+	opacity:0.5;
+	}
+	
 h2, p{
 	padding: 20px;
 	}
