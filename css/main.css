@@ -28,7 +28,6 @@ article{
 
 #maincontent{
 	background-color:#ffffff;
-	background-image: url ("../images/orangecascadiafancy.jpg") 
 	opacity;0.4;
 	margin:0 auto;
 	}
@@ -65,11 +64,11 @@ aside{
 	color: #ffffff;
 	}
 
-aside a:link, a:visited{
+aside a:link, aside a:visited{
 	color: #ffffff;
 	}
 	
-aside a:hover, a:active{
+aside a:hover, aside a:active{
 	color: #055A27;
 	text-shadow: 1px 1px 10px #000000;
 	}
@@ -119,11 +118,11 @@ nav ul{
 	overflow:hidden;
 	}
 	
-nav ul li{
+nav li{
 	float:left;
 	}
 	
-nav ul li a:link, nav ul li a:visited{
+nav a:link, nav a:visited{
 	display:block;
 	width:100px;
 	height:60px;
@@ -135,7 +134,7 @@ nav ul li a:link, nav ul li a:visited{
 	line-height: 60px;
 	}
 	
-nav ul li a:hover, nav ul li a:active{
+nav a:hover, nav a:active{
 	background-color:#e85200;
 	}
 
@@ -152,14 +151,14 @@ nav ul li a:hover, nav ul li a:active{
 	border-color: #e85200;
 	}
 	
-#equipmentgallery ul li{
+#equipmentgallery li{
 	float: left;
 	margin: 14px;
 	padding: 10px;
 	display: block;
 }
 
-#equipmentgallery ul li a{
+#equipmentgallery a{
 	border-width: 10px;
 	border-color: #e85200;
 	display: block;
@@ -197,14 +196,14 @@ nav ul li a:hover, nav ul li a:active{
 	margin: 20px;
 	}
 	
-#peoplenetgallery ul li{
+#peoplenetgallery li{
 	float: left;
 	margin: 14px;
 	padding: 10px;
 	display: block;
 }
 
-#peoplenetgallery ul li a{
+#peoplenetgallery a{
 	border-width: 10px;
 	border-color: #e85200;
 	display: block;
@@ -240,7 +239,7 @@ footer ul{
 	overflow:hidden;
 	}
 	
-footer ul li{
+footer li{
 	display: inline-block;
 	float:left;
 	margin: 0px 90px 0px 90px;
