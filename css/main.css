@@ -150,7 +150,7 @@ div#equipmentgallery img{
 
 div#equipmentgallery li{
 	list-style-type:none;
-	display: inline-block;
+	display: block;
 	padding:0px;
 }
 
