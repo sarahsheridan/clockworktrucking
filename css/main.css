@@ -15,7 +15,7 @@ body{
 
 /*general site elements--------------------------------------------------------------------*/
 
-div#indeximage{
+#indeximage{
 	margin:30px;
 	border:10px solid #4f4f4f;
 	float:left;
@@ -26,14 +26,11 @@ article{
 	padding:0px 20px;
 	}
 
-div#maincontent{
+#maincontent{
 	background-color:#ffffff;
-	background-image: url ("../images/orangecascadiafancy.jpg");
+	background-image: url ("../images/orangecascadiafancy.jpg") 
+	opacity;0.4;
 	margin:0 auto;
-	}
-	
-div#maincontent img{
-	opacity:0.5;
 	}
 	
 h2, p{
@@ -149,20 +146,20 @@ nav ul li a:hover, nav ul li a:active{
 
 /* equipmentgallery-----------------------------------------------------------------------*/
 
-div#equipmentgallery ul{
+#equipmentgallery ul{
 	width: 760px;
 	border: 20px;
 	border-color: #e85200;
 	}
 	
-div#equipmentgallery ul li{
+#equipmentgallery ul li{
 	float: left;
 	margin: 14px;
 	padding: 10px;
 	display: block;
 }
 
-div#equipmentgallery ul li a{
+#equipmentgallery ul li a{
 	border-width: 10px;
 	border-color: #e85200;
 	display: block;
@@ -170,17 +167,17 @@ div#equipmentgallery ul li a{
 	width: 200px;
 }
 
-div#equipmentgallery img{
+#equipmentgallery img{
 	border: 6px solid #e85200;
 }
 
-div#equipmentgallery li{
+#equipmentgallery li{
 	list-style-type:none;
 	display: block;
 	padding:0px;
 }
 
-div#equipmentgallery img:hover{
+#equipmentgallery img:hover{
 	border: 6px solid #e8900c;
 }
 
@@ -192,7 +189,7 @@ div#equipmentgallery img:hover{
 
 /* equipmentgallery-----------------------------------------------------------------------*/
 
-div#peoplenetgallery ul{
+#peoplenetgallery ul{
 	width: 760px;
 	border: 20px;
 	background-color: #000000;
@@ -200,14 +197,14 @@ div#peoplenetgallery ul{
 	margin: 20px;
 	}
 	
-div#peoplenetgallery ul li{
+#peoplenetgallery ul li{
 	float: left;
 	margin: 14px;
 	padding: 10px;
 	display: block;
 }
 
-div#peoplenetgallery ul li a{
+#peoplenetgallery ul li a{
 	border-width: 10px;
 	border-color: #e85200;
 	display: block;
@@ -215,17 +212,17 @@ div#peoplenetgallery ul li a{
 	width: 252px;
 }
 
-div#peoplenetgallery img{
+#peoplenetgallery img{
 	border: 6px solid #e85200;
 }
 
-div#peoplenetgallery li{
+#peoplenetgallery li{
 	list-style-type:none;
 	display: inline-block;
 	padding:0px;
 }
 
-div#peoplenetgallery img:hover{
+#peoplenetgallery img:hover{
 	border: 6px solid #e8900c;
 }
 
