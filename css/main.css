@@ -38,7 +38,14 @@ h2, p{
 dl{
 	padding-bottom: 20px;
 	}
-
+dt{
+	background-color: #ffb40d;
+	}
+	
+dd{
+	background color: #A4A4A4;
+	}
+	
 aside h2{
 	font-size: 34px;
 	padding: 20px 100px;
