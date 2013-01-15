@@ -54,7 +54,12 @@ h2, p{
 	padding: 20px;
 	margin:0px;
 	}
-
+	
+h3{
+	padding: 10px;
+	margin: 0px;
+	}
+	
 dl{
 	padding-bottom: 20px;
 	margin: 0px;
