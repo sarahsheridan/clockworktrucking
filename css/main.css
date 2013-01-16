@@ -301,6 +301,16 @@ nav a:hover, nav a:active{
 	background: -moz-linear-gradient(top,  #f47a20,  #faa51a);
 	filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#f47a20', endColorstr='#faa51a');
 }
+
+.orange a:link, .orange a:visited{
+	color: #ffffff;
+	}
+
+.orange a:hover, .orange a:active{
+	color: #055A27;
+	text-shadow: 1px 1px 10px #000000;
+	}
+	
 /*-----------------------------------------------end button--------------------------*/
 
 /* footer---------------------------------------------------------------------------*/
