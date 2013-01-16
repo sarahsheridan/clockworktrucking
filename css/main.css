@@ -218,12 +218,7 @@ nav a:hover, nav a:active{
 /* equipmentgallery-----------------------------------------------------------------------*/
 
 #peoplenetgallery ul{
-	width: 880px;
-	border: 20px;
-	background-color: #ffffff;
-	border-color: #e85200;
 	margin: 20px 20px 0px 20px;
-	display:block;
 	height: 250px;
 	}
 	
