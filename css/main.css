@@ -16,6 +16,10 @@ body{
 
 /*general site elements--------------------------------------------------------------------*/
 
+#centerpic{
+	margin: 0 auto;
+	}
+	
 ul{
 	list-style-type:square;
 	}
