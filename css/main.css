@@ -183,9 +183,9 @@ nav a:hover, nav a:active{
 -webkit-column-count:4; /* Safari and Chrome */
 column-count:4;
 
--moz-column-gap:20px; /* Firefox */
--webkit-column-gap:20px; /* Safari and Chrome */
-column-gap:20px;
+-moz-column-gap:10px; /* Firefox */
+-webkit-column-gap:10px; /* Safari and Chrome */
+column-gap:10px;
 }
 
 
