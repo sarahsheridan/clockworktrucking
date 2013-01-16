@@ -179,13 +179,13 @@ nav a:hover, nav a:active{
 
 .newspaper
 {
--moz-column-count:3; /* Firefox */
--webkit-column-count:3; /* Safari and Chrome */
-column-count:3;
+-moz-column-count:4; /* Firefox */
+-webkit-column-count:4; /* Safari and Chrome */
+column-count:4;
 
--moz-column-gap:40px; /* Firefox */
--webkit-column-gap:40px; /* Safari and Chrome */
-column-gap:40px;
+-moz-column-gap:20px; /* Firefox */
+-webkit-column-gap:20px; /* Safari and Chrome */
+column-gap:20px;
 }
 
 
