@@ -222,7 +222,7 @@ nav a:hover, nav a:active{
 	border: 20px;
 	background-color: #ffffff;
 	border-color: #e85200;
-	margin: 20px;
+	margin: 20px 20px 0px 20px;
 	display:block;
 	height: 250px;
 	}
