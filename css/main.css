@@ -328,13 +328,11 @@ column-gap:10px;
 
 .orange a:link, .orange a:visited{
 	color: #ffffff;
-	padding: .5em 2em .55em;
 	}
 
 .orange a:hover, .orange a:active{
 	color: #055A27;
 	text-shadow: 1px 1px 10px #000000;
-	padding: .5em 2em .55em;
 	}
 	
 /*-----------------------------------------------end button--------------------------*/
