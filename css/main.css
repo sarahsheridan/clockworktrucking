@@ -180,6 +180,7 @@ nav a:link, nav a:visited{
 	
 nav a:hover, nav a:active{
 	background-color:#e85200;
+	text-shadow: 1px 1px 10px #ff3a00;
 	}
 
 /* end nav-------------------------------------------*/
