@@ -230,6 +230,7 @@ column-gap:10px;
 
 #equipmentgallery img{
 	border: 6px solid #e85200;
+	opacity: 0.7;
 }
 
 #equipmentgallery li{
@@ -240,6 +241,7 @@ column-gap:10px;
 
 #equipmentgallery img:hover{
 	border: 6px solid #e8900c;
+	opacity: 1;
 }
 
 .clearleft{
