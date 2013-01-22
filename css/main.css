@@ -52,7 +52,7 @@ article{
 #indeximage{
 	margin:30px 30px 15px 30px;
 	border:10px solid #4f4f4f;
-	height:390px;
+	width: 52.5833333333333%; /*480/960*/
 	float:left;
 	}
 	
