@@ -7,7 +7,7 @@
  
  	
 body{
-	width: 960px;
+	width: 100%; /*  960px;  */
 	font-family: 'Scada', sans-serif;
 	margin: 0 auto;
 	background-color: #4f4f4f;
@@ -18,7 +18,7 @@ body{
 /*general site elements--------------------------------------------------------------------*/
 
 #centerpic{
-	padding: 0px 200px;
+	padding: 0% 20.833333333333333%; /* 0px 200px;  */
 	}
 	
 ul{
@@ -26,7 +26,7 @@ ul{
 	}
 
 a{
-	padding-top: 0px;
+	padding-top: 0% /* 0px;*/ 
 	}
 	
 a:link, a:visited{
@@ -46,7 +46,7 @@ article{
 #indeximage{
 	margin:30px 30px 15px 30px;
 	border:10px solid #4f4f4f;
-	height:390px;
+	height: 40.625% /* 390px;*/
 	float:left;
 	}
 	
@@ -57,8 +57,7 @@ article{
 
 #maincontent{
 	background-color:#ffffff;
-	opacity;0.4;
-	margin:0 auto;
+	margin: 0 auto;
 	}
 	
 h2{
@@ -86,7 +85,7 @@ dt{
 	}
 	
 dd{
-	background color: #A4A4A4;
+	background-color: #A4A4A4;
 	}
 	
 aside h2{
