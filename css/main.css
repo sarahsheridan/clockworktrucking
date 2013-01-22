@@ -56,6 +56,10 @@ article{
 	float:left;
 	}
 	
+#indeximage img{
+	max-width:100%;
+	}
+	
 article{
 	clear:left;
 	padding:0px 20px;
