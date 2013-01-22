@@ -16,6 +16,11 @@ body{
 	background-repeat:repeat-x;
 }
 
+#wrapper{
+	width:100%;
+	margin: 0 auto;
+	overflow: hidden;
+}
 /*general site elements--------------------------------------------------------------------*/
 
 #centerpic{
