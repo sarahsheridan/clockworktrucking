@@ -121,9 +121,9 @@ aside p{
 	}
 	
 aside{
-	width: 960px;
-	height: 200px;
+	max-width: 100%;
 	background-image: url("../images/ontheroad.jpg");
+	background-size: 100%;
 	color: #ffffff;
 	}
 
