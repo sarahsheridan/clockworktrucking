@@ -7,7 +7,7 @@
  
  	
 body{
-	width: 100%; /*  960px;  */
+	width:960px; 
 	font-family: 'Scada', sans-serif;
 	margin: 0 auto;
 	background-color: #4f4f4f;
