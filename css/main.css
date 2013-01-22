@@ -24,7 +24,7 @@ body{
 /*general site elements--------------------------------------------------------------------*/
 
 #centerpic{
-	padding: 0px 200px;
+	padding: 0% 20.833333333333%; /*0px 200px;*/
 	}
 	
 ul{
@@ -32,7 +32,7 @@ ul{
 	}
 
 a{
-	padding-top: 0px;
+	padding-top: 0%;
 	}
 	
 a:link, a:visited{
