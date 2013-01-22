@@ -25,6 +25,7 @@ body{
 
 #centerpic{
 	padding: 0% 20.833333333333%; /*0px 200px;*/
+	max-width: 60%;/*width="576" height="360"*/
 	}
 	
 ul{
