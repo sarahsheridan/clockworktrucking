@@ -9,6 +9,7 @@
 body{
 	width:960px; 
 	font-family: 'Scada', sans-serif;
+	font-size:100%;
 	margin: 0 auto;
 	background-color: #4f4f4f;
 	background-image: url('../images/bggrade.jpg');
