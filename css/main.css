@@ -28,6 +28,10 @@ body{
 	max-width: 60%;/*width="576" height="360"*/
 	}
 	
+#centerpic img{
+	max-width:100%;
+}
+	
 ul{
 	list-style-type:square;
 	}
