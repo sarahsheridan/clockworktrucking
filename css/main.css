@@ -65,38 +65,44 @@ article{
 h2{
 	padding: 30px 20px 20px 20px;
 	margin: 0px;
+	font-size: 1.5em;
 	}
 
 p{
 	padding: 20px;
 	margin:0px;
+	font-size:1em:
 	}
 	
 h3{
 	padding: 10px;
 	margin: 0px;
+	font-size:1.17em;
 	}
 	
 dl{
 	padding-bottom: 20px;
 	margin: 0px;
+	font-size:1em;
 	}
 dt{
 	background-color: #ffb40d;
 	padding-left: 20px;
+	font-size:1em;
 	}
 	
 dd{
 	background color: #A4A4A4;
+	font-size:1em;
 	}
 	
 aside h2{
-	font-size: 34px;
+	font-size: 2.125em;
 	padding: 20px 100px;
 	}
 	
 aside p{
-	font-size: 24px;
+	font-size: 1.5em;
 	color: #ffffff;
 	}
 	
@@ -131,6 +137,7 @@ header{
 
 h1{
 	background-color: #ff7b00;
+	font-size: 2em;
 	text-shadow: 1px 1px 10px #ffb40d;
 	line-height: 60px;
 	text-align: center;
@@ -355,6 +362,7 @@ column-gap:10px;
 
 footer ul{
 	clear:left;
+	font-size: 1em;
 	background-color:#ff7b00;
 	list-style-type:none;
 	margin:auto;
