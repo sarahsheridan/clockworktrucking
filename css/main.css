@@ -382,14 +382,14 @@ footer ul{
 	background-color:#ff7b00;
 	list-style-type:none;
 	margin:auto;
-	padding:20px 0px 20px 0px;
+	padding:2.083333333333% 0% 2.083333333333% 0%;/*20px 0px 20px 0px;*/
 	overflow:hidden;
 	}
 	
 footer li{
 	display: inline-block;
 	float:left;
-	margin: 0% 9.375% 0% 9.375% /* 0px 90px 0px 90px;*/
+	margin: 0% 9.375% 0% 9.375%; /* 0px 90px 0px 90px;*/
 	}
 	
 	
