@@ -418,6 +418,17 @@ footer li{
  	nav li{
  	width: 20%;
  	}
+ 	
+ 	.newspaper
+	{
+	-moz-column-count:2; /* Firefox */
+	-webkit-column-count:2; /* Safari and Chrome */
+	column-count:2;
+	
+	-moz-column-gap: 1.0416666666666667%; /*10px; Firefox */
+	-webkit-column-gap:1.0416666666666667%; /*10px; Safari and Chrome */
+	column-gap:1.0416666666666667%; /*10px;*/
+	}
 }
 
 /* mobile landscape size to tablet portrait size (devices and browsers)*/
@@ -439,6 +450,17 @@ footer li{
  	nav a{
  	padding: 0% 10%;
  	}
+ 	
+ 	.newspaper
+	{
+	-moz-column-count:2; /* Firefox */
+	-webkit-column-count:2; /* Safari and Chrome */
+	column-count:2;
+	
+	-moz-column-gap: 1.0416666666666667%; /*10px; Firefox */
+	-webkit-column-gap:1.0416666666666667%; /*10px; Safari and Chrome */
+	column-gap:1.0416666666666667%; /*10px;*/
+	}
 
 }
 
@@ -463,4 +485,10 @@ footer li{
  	padding: 0% 10%;
  	}
  	
+ 	.newspaper
+	{
+	-moz-column-count:1; /* Firefox */
+	-webkit-column-count:1; /* Safari and Chrome */
+	column-count:1;
+	}
 }
