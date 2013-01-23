@@ -443,4 +443,21 @@ footer li{
 /*mobile portrait size to mobile landscape size (devices and browsers)*/
 @media only screen and (max-width: 479px) {
 
+	h1{
+	float: none;
+	
+	}
+	
+	nav ul{
+	width: 100%;
+	}
+ 	
+ 	nav li{
+ 	width: 20%;
+ 	}
+ 	
+ 	nav a{
+ 	padding: 0% 10%;
+ 	}
+ 	
 }
