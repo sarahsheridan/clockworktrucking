@@ -506,7 +506,7 @@ footer li{
 	#indeximage{
 	float:none;
 	width: 80%;
-	margin: 0%;
+	margin: 0% auto;
 	}
 	
 }
