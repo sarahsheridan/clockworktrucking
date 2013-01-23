@@ -123,7 +123,7 @@ aside p{
 aside{
 	max-width: 100%;
 	background-image: url("../images/ontheroad.jpg");
-	background-size: contain;
+	background-overflow: hidden;
 	background-repeat: none;
 	color: #ffffff;
 	}
@@ -394,3 +394,24 @@ footer li{
 	
 	
 /* end footer------------------------------------------------------------------------*/
+
+/* ----------media queries------------------------------------------------------------*/
+
+/*tablet portrait size to standard 960 (devices & browsers)*/
+@media screen and (min-width:768px) and (max-width:959px){
+
+h1{
+clear:float;
+}
+
+
+/* mobile landscape size to tablet portrait size (devices and browsers)*/
+@media only screen and (min-width:480px) and (max-width:767px) {
+
+}
+
+
+/*mobile portrait size to mobile landscape size (devices and browsers)*/
+@media only screen and (max-width: 479px) {
+
+}
