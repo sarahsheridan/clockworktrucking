@@ -484,6 +484,11 @@ footer li{
 	text-align: center;
 	}
 	
+	p{
+	width: 90%;
+	padding: 0%;
+	}
+	
 	nav ul{
 	width: 100%;
 	}
