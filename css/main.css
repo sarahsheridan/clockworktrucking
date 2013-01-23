@@ -400,7 +400,7 @@ footer ul{
 footer li{
 	display: inline-block;
 	float:left;
-	margin: 0% 9.375% 0% 9.375%; /* 0px 90px 0px 90px;*/
+	margin: 0%;
 	width: 33.333333333%;
 	}
 	
