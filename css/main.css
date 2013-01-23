@@ -233,8 +233,12 @@ column-gap:10px;
 
 /* equipmentgallery-----------------------------------------------------------------------*/
 
-#equipmentgallery ul{
+#equipmentgallery{
 	width: 79.166666666667%; /*760px;*/
+	}
+	
+#equipmentgallery ul{
+	/*width: 79.166666666667%; /*760px;*/
 	border: 2.083333333333%; /*20px;*/
 	margin: 3.937368421053% 12.5% /*30px 95px;*/
 	border-color: #e85200;
@@ -243,7 +247,7 @@ column-gap:10px;
 	
 #equipmentgallery li{
 	float: left;
-	margin: 14px;
+	margin: /*14px;*/
 	padding: 10px;
 	display: block;
 }
