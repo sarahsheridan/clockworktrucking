@@ -468,6 +468,10 @@ footer li{
 	-webkit-column-gap:1.0416666666666667%; /*10px; Safari and Chrome */
 	column-gap:1.0416666666666667%; /*10px;*/
 	}
+	
+	#indeximage{
+	float:none;
+	}
 
 }
 
@@ -498,4 +502,9 @@ footer li{
 	-webkit-column-count:1; /* Safari and Chrome */
 	column-count:1;
 	}
+	
+	#indeximage{
+	float:none;
+	}
+	
 }
