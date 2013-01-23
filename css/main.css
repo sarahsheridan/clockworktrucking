@@ -410,9 +410,11 @@ footer li{
 	
 	nav ul{
 	width: 100%;
-	position: center;
 	}
-
+ 	
+ 	nav li{
+ 	width: 20%;
+ 	}
 }
 
 /* mobile landscape size to tablet portrait size (devices and browsers)*/
