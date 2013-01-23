@@ -123,8 +123,8 @@ aside p{
 aside{
 	max-width: 100%;
 	background-image: url("../images/ontheroad.jpg");
-	background-overflow: hidden;
 	background-repeat: none;
+	overflow: hidden;
 	color: #ffffff;
 	}
 
