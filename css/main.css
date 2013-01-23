@@ -201,7 +201,7 @@ nav a:link, nav a:visited{
 	font-weight:bold;
 	color:#000000;
 	background-color:#ff7b00;
-	text-align:center;
+	text-align: left;
 	text-decoration:none;
 	line-height: 3.75em; /*60px;*/
 	}
