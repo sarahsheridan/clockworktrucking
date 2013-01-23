@@ -280,6 +280,10 @@ column-gap:10px;
 
 /* equipmentgallery-----------------------------------------------------------------------*/
 
+#peoplenetgallery{
+	background-color:#ffffff;
+	}
+	
 #peoplenetgallery ul{
 	margin: 20px 20px 0px 20px;
 	display: block;
