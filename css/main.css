@@ -181,10 +181,12 @@ h1 a:hover, h1 a:active{
 /*---------------------------------------------------------------------------------------nav*/
 
 nav ul{
+	clear:float;
 	list-style-type:none;
 	margin:0;
 	padding:0;
 	overflow:hidden;
+	width: 58.333333333333%;
 	}
 	
 nav li{
