@@ -387,11 +387,12 @@ footer{
 	}
 	
 footer ul{
+	width: 100%;
 	clear:left;
 	font-size: 1em;
 	background-color:#ff7b00;
 	list-style-type:none;
-	margin:auto;
+	margin: 0;
 	padding:2.083333333333% 0% 2.083333333333% 0%;/*20px 0px 20px 0px;*/
 	overflow:hidden;
 	}
