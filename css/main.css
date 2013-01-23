@@ -432,6 +432,10 @@ footer li{
  	nav li{
  	width: 20%;
  	}
+ 	
+ 	nav a{
+ 	padding: 0% 10%;
+ 	}
 
 }
 
