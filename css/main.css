@@ -382,6 +382,10 @@ column-gap:10px;
 
 /* footer---------------------------------------------------------------------------*/
 
+footer{
+	width:100%;
+	}
+	
 footer ul{
 	clear:left;
 	font-size: 1em;
@@ -396,6 +400,7 @@ footer li{
 	display: inline-block;
 	float:left;
 	margin: 0% 9.375% 0% 9.375%; /* 0px 90px 0px 90px;*/
+	width: 33.333333333%;
 	}
 	
 	
