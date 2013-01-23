@@ -419,6 +419,19 @@ footer li{
 
 /* mobile landscape size to tablet portrait size (devices and browsers)*/
 @media only screen and (min-width:480px) and (max-width:767px) {
+	
+	h1{
+	float: none;
+	
+	}
+	
+	nav ul{
+	width: 100%;
+	}
+ 	
+ 	nav li{
+ 	width: 20%;
+ 	}
 
 }
 
