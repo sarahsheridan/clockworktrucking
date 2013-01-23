@@ -403,10 +403,15 @@ footer li{
 /*tablet portrait size to standard 960 (devices & browsers)*/
 @media screen and (min-width:768px) and (max-width:959px){
 
-h1{
-float: none;
-}
+	h1{
+	float: none;
+	}
+	
+	nav{
+	width: 100%;
+	}
 
+}
 
 /* mobile landscape size to tablet portrait size (devices and browsers)*/
 @media only screen and (min-width:480px) and (max-width:767px) {
