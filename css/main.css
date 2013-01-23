@@ -478,7 +478,10 @@ footer li{
 
 	h1{
 	float: none;
+	}
 	
+	h2{
+	text-align: center;
 	}
 	
 	nav ul{
