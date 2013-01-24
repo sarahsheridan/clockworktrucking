@@ -46,7 +46,7 @@ a:link, a:visited{
 
 a:hover, a:active{
 	color: #055A27;
-	text-shadow: 1px 1px 10px #000000;
+	text-shadow: 1px 1px 1.04166666667%; /*10px;*/ #000000;
 	}
 	
 article{
@@ -55,7 +55,7 @@ article{
 	}
 	
 #indeximage{
-	margin:30px 30px 15px 30px;
+	margin:3.125% 3.125% 1.5625% 3.125%; /* 30px 30px 15px 30px;*/
 	border:10px solid #4f4f4f;
 	width: 48.958333333333%; /*470/960*/
 	float:left;
@@ -67,7 +67,7 @@ article{
 	
 article{
 	clear:left;
-	padding:0px 20px;
+	padding: 0% 2.083333333333% /*0px 20px;*/
 	}
 
 #maincontent{
@@ -76,31 +76,31 @@ article{
 	}
 	
 h2{
-	padding: 30px 20px 20px 20px;
+	padding: 3.125% 2.083333333333% 2.083333333333% 2.083333333333%; /*30px 20px 20px 20px;*/
 	margin: 0px;
 	font-size: 1.5em;
 	}
 
 p{
-	padding: 20px;
+	padding: 2.083333333333% /*20px;*/
 	margin:0px;
 	font-size:1em;
 	}
 	
 h3{
-	padding: 10px;
+	padding: 1.04166666667%; /*10px;*/
 	margin: 0px;
 	font-size:1.17em;
 	}
 	
 dl{
-	padding-bottom: 20px;
+	padding-bottom: 2.083333333333%/*20px;*/
 	margin: 0px;
 	font-size:1em;
 	}
 dt{
 	background-color: #ffb40d;
-	padding-left: 20px;
+	padding-left: 2.083333333333%;/*20px;*/
 	font-size:1em;
 	}
 	
@@ -207,7 +207,7 @@ nav a:link, nav a:visited{
 nav a:hover, nav a:active{
 	color: #ffffff;
 	background-color:#e85200;
-	text-shadow: 1px 1px 10px #ff3a00;
+	text-shadow: 1px 1px 1.04166666667%; /*10px;*/ #ff3a00;
 	}
 
 /* end nav-------------------------------------------*/
@@ -221,9 +221,9 @@ nav a:hover, nav a:active{
 -webkit-column-count:4; /* Safari and Chrome */
 column-count:4;
 
--moz-column-gap:10px; /* Firefox */
--webkit-column-gap:10px; /* Safari and Chrome */
-column-gap:10px;
+-moz-column-gap:1.04166666667%; /*10px;*/ /* Firefox */
+-webkit-column-gap:1.04166666667%; /*10px;*/ /* Safari and Chrome */
+column-gap:1.04166666667%; /*10px;*/
 }
 
 
@@ -241,7 +241,7 @@ column-gap:10px;
 #equipmentgallery li{
 	float: left;
 	margin: 1.45833333333333%; /*14px;*/
-	padding: 10px;
+	padding: 1.04166666667%; /*10px;*/
 	display: block;
 }
 
@@ -279,20 +279,21 @@ column-gap:10px;
 
 	
 #peoplenetgallery ul{
-	margin: 20px 20px 0px 20px;
+	margin: 2.0833333333% 2.0833333333% 0% 2.0833333333%; /*20px 20px 0px 20px;*/
 	display: block;
 	background-color:#ffffff;
+	height: 250px;
 	}
 	
 #peoplenetgallery li{
 	float: left;
 	margin: 2.0833333333% 2.0833333333% 2.0833333333% 10.416666666667%;/*20px 20px 20px 100px;*/
-	padding: 10px 0px 10px 100px;
+	padding: 10.416666666667%/*10px 0px 10px 100px;*/
 	display: block;
 }
 
 #peoplenetgallery a{
-	border-width: 10px;
+	border-width: 1.04166666667%; /*10px;*/
 	border-color: #e85200;
 	display: block;
 	width: 26.25%; /*252px;*/
