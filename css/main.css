@@ -436,7 +436,7 @@ footer li{
 	column-gap:1.0416666666666667%; /*10px;*/
 	}
 	
-	#equipmentgallery{
+	#equipmentgallery ul{
 	height: 460px;
 	}
 }
