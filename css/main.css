@@ -72,7 +72,7 @@ article{
 
 #maincontent{
 	background-color:#ffffff;
-	opacity;0.4;
+	opacity:0.4;
 	margin:0 auto;
 	}
 	
@@ -85,7 +85,7 @@ h2{
 p{
 	padding: 20px;
 	margin:0px;
-	font-size:1em:
+	font-size:1em;
 	}
 	
 h3{
@@ -106,7 +106,7 @@ dt{
 	}
 	
 dd{
-	background color: #A4A4A4;
+	background-color: #A4A4A4;
 	font-size:1em;
 	}
 	
@@ -123,7 +123,7 @@ aside p{
 aside{
 	max-width: 100%;
 	background-image: url("../images/ontheroad.jpg");
-	background-repeat: none;
+	background-repeat: no-repeat;
 	overflow: hidden;
 	color: #ffffff;
 	}
@@ -181,7 +181,7 @@ h1 a:hover, h1 a:active{
 /*---------------------------------------------------------------------------------------nav*/
 
 nav ul{
-	clear:float;
+	clear:both;
 	list-style-type:none;
 	margin:0;
 	padding:0;
@@ -235,8 +235,7 @@ column-gap:10px;
 
 #equipmentgallery ul{
 	width: 79.166666666667%; /*760px;*/
-	border: 2.083333333333%; /*20px;*/
-	margin: 3.937368421053% 12.5% /*30px 95px;*/
+	margin: 3.937368421053% 12.5%; /*30px 95px;*/
 	border-color: #e85200;
 	display: block;
 	}
@@ -432,9 +431,9 @@ footer li{
 	-webkit-column-count:2; /* Safari and Chrome */
 	column-count:2;
 	
-	-moz-column-gap: 1.0416666666666667%; /*10px; Firefox */
-	-webkit-column-gap:1.0416666666666667%; /*10px; Safari and Chrome */
-	column-gap:1.0416666666666667%; /*10px;*/
+	-moz-column-gap: 10px; /*Firefox */
+	-webkit-column-gap:10px; /* Safari and Chrome */
+	column-gap:10px;
 	}
 }
 
@@ -464,9 +463,9 @@ footer li{
 	-webkit-column-count:2; /* Safari and Chrome */
 	column-count:2;
 	
-	-moz-column-gap: 1.0416666666666667%; /*10px; Firefox */
-	-webkit-column-gap:1.0416666666666667%; /*10px; Safari and Chrome */
-	column-gap:1.0416666666666667%; /*10px;*/
+	-moz-column-gap: 10px; /*Firefox */
+	-webkit-column-gap:10px; /* Safari and Chrome */
+	column-gap:10px;
 	}
 
 
