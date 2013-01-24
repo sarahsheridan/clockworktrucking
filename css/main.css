@@ -156,7 +156,7 @@ h1{
 	line-height: 1.875em; /*60px;*/
 	text-align: center;
 	color: #000000;
-	width: 41.6666666667%;
+	width: 400px;
 	height: 1.875em; /*60px;*/
 	margin: 0 auto;
 	float: left;
@@ -165,14 +165,14 @@ h1{
 h1 a:link, h1 a:visited{
 	text-decoration:none;
 	color: #000000;
-	width: 41.6666666667%;
+	width: 400px;
 	height: 2em; /*60px;*/
 	}
 	
 h1 a:hover, h1 a:active{
 	color: #ffffff;
 	text-shadow: 1px 1px 10px #ff3a00;
-	width: 41.6666666667%;
+	width: 400px;
 	height: 2em; /*60px;*/
 	}
 	
