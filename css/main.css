@@ -478,7 +478,8 @@ footer li{
 	}
 	
 	aside{
-	background-color; #e85200;
+	background-image: none;
+	background-color: #e85200;
 	}
 
 }
@@ -534,6 +535,7 @@ footer li{
 	}
 	
 	aside{
-	background-color; #e85200;
+	background-image: none;
+	background-color: #e85200;
 	}
 }
