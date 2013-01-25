@@ -436,7 +436,7 @@ footer li{
 	column-gap:1.0416666666666667%; /*10px;*/
 	}
 	
-	#equipmentgallery ul{
+	#peoplenetgallery ul{
 	height: 460px;
 	}
 	
@@ -481,7 +481,7 @@ footer li{
 	column-gap:1.0416666666666667%; /*10px;*/
 	}
 	
-	#equipmentgallery ul{
+	#peoplenetgallery ul{
 	height: 460px;
 	}
 	
@@ -538,12 +538,12 @@ footer li{
 	margin: 0% auto;
 	}
 	
-	#equipmentgallery ul{
+	#peoplenetgallery ul{
 	display: block;
 	height: 460px;
 	}
 	
-	#equipmentgallery li{
+	#peoplenetgallery li{
 	background-color:#ffffff;
 	}
 	
@@ -555,4 +555,17 @@ footer li{
 	aside h2, aside p{
 	text-align: center;
 	}
+	
+	#peoplenetgallery ul{
+	display: block;
+	background-color:#ffffff;
+	width:100%;
+	}
+	
+	#peoplenetgallery li{
+	float: left;
+	padding: 10.4166666667%;
+	display: block;
+	}
+
 }
