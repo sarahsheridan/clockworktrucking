@@ -283,11 +283,12 @@ column-gap:10px;
 	display: block;
 	background-color:#ffffff;
 	height: 260px;
+	padding: 0;
 	}
 	
 #peoplenetgallery li{
 	float: left;
-	margin: 10.8333333333%;
+	margin: 2.70833333325% 10.8333333333%;
 	padding: 3.96825398254%;
 	display: block;
 }
