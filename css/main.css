@@ -280,7 +280,6 @@ column-gap:10px;
 
 	
 #peoplenetgallery ul{
-	margin: 20px 20px 0px 20px;
 	display: block;
 	background-color:#ffffff;
 	height: 260px;
@@ -288,8 +287,8 @@ column-gap:10px;
 	
 #peoplenetgallery li{
 	float: left;
-	margin: 20px 20px 20px 100px;
-	padding: 10px 0px 10px 100px;
+	margin: 10.8333333333%;
+	padding: 3.96825398254%;
 	display: block;
 }
 
