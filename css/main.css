@@ -55,7 +55,7 @@ article{
 	}
 	
 #indeximage{
-	margin:30px 30px 15px 30px;
+	margin: 3.125% 3.125% 1.5625% 3.125% /*30px 30px 15px 30px;*/
 	border:10px solid #4f4f4f;
 	width: 48.958333333333%; /*470/960*/
 	float:left;
