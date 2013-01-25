@@ -179,7 +179,6 @@ h1 a:hover, h1 a:active{
 /*---------------------------------------------------------------------------------------nav*/
 
 nav ul{
-	clear:float;
 	list-style-type:none;
 	margin:0;
 	padding:0;
@@ -233,7 +232,6 @@ column-gap:10px;
 
 #equipmentgallery ul{
 	width: 79.166666666667%; /*760px;*/
-	border: 2.083333333333%; /*20px;*/
 	margin: 3.937368421053% 10.416666666667%; /*30px 100px;*/
 	padding: 0;
 	border-color: #e85200;
@@ -434,9 +432,9 @@ footer li{
 	-webkit-column-count:2; /* Safari and Chrome */
 	column-count:2;
 	
-	-moz-column-gap: 1.0416666666666667%; /*10px; Firefox */
-	-webkit-column-gap:1.0416666666666667%; /*10px; Safari and Chrome */
-	column-gap:1.0416666666666667%; /*10px;*/
+	-moz-column-gap: 10px; /*Firefox */
+	-webkit-column-gap:10px; /*Safari and Chrome */
+	column-gap:10px; 
 	}
 	
 	#peoplenetgallery ul{
@@ -479,9 +477,9 @@ footer li{
 	-webkit-column-count:2; /* Safari and Chrome */
 	column-count:2;
 	
-	-moz-column-gap: 1.0416666666666667%; /*10px; Firefox */
-	-webkit-column-gap:1.0416666666666667%; /*10px; Safari and Chrome */
-	column-gap:1.0416666666666667%; /*10px;*/
+	-moz-column-gap: 10px; /*Firefox */
+	-webkit-column-gap:10px; /*Safari and Chrome */
+	column-gap:10px; 
 	}
 	
 	#peoplenetgallery ul{
@@ -564,5 +562,8 @@ footer li{
 	background-color:#ffffff;
 	}
 	
+	footer li{
+	font-size: .8em;
+	}
 
 }
