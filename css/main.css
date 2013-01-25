@@ -481,6 +481,10 @@ footer li{
 	background-image: none;
 	background-color: #e85200;
 	}
+	
+	aside h2, aside p{
+	text-align: center;
+	}
 
 }
 
@@ -537,5 +541,9 @@ footer li{
 	aside{
 	background-image: none;
 	background-color: #e85200;
+	}
+	
+	aside h2, aside p{
+	text-align: center;
 	}
 }
