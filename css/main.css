@@ -437,8 +437,6 @@ footer li{
 	
 	#peoplenetgallery ul{
 	height: 460px;
-	border: 2.083333333333%; /*20px;*/
-	margin: 3.937368421053% 12.5% /*30px 95px;*/
 	}
 	
 	aside{
@@ -484,8 +482,6 @@ footer li{
 	
 	#peoplenetgallery ul{
 	height: 460px;
-	border: 2.083333333333%; /*20px;*/
-	margin: 3.937368421053% 12.5%; /*30px 95px;*/
 	}
 	
 	aside{
@@ -544,8 +540,6 @@ footer li{
 	#peoplenetgallery ul{
 	display: block;
 	height: 460px;
-	border: 2.083333333333%; /*20px;*/
-	margin: 3.937368421053% 12.5%; /*30px 95px;*/
 	}
 	
 	#peoplenetgallery li{
@@ -564,13 +558,7 @@ footer li{
 	#peoplenetgallery ul{
 	display: block;
 	background-color:#ffffff;
-	width:100%;
 	}
 	
-	#peoplenetgallery li{
-	float: left;
-	padding: 10.4166666667%;
-	display: block;
-	}
 
 }
