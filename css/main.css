@@ -439,6 +439,7 @@ footer li{
 	#equipmentgallery ul{
 	height: 460px;
 	}
+	
 }
 
 /* mobile landscape size to tablet portrait size (devices and browsers)*/
@@ -471,7 +472,10 @@ footer li{
 	-webkit-column-gap:1.0416666666666667%; /*10px; Safari and Chrome */
 	column-gap:1.0416666666666667%; /*10px;*/
 	}
-
+	
+	#equipmentgallery ul{
+	height: 460px;
+	}
 
 }
 
@@ -516,5 +520,8 @@ footer li{
 	margin: 0% auto;
 	}
 	
+	#equipmentgallery ul{
+	height: 460px;
+	}
 	
 }
