@@ -94,13 +94,13 @@ h3{
 	}
 	
 dl{
-	padding-bottom: 20px;
+	padding-bottom: 3.125%; /*20px;*/
 	margin: 0px;
 	font-size:1em;
 	}
 dt{
 	background-color: #ffb40d;
-	padding-left: 20px;
+	padding-left: 3.125%; /*20px;*/
 	font-size:1em;
 	}
 	
