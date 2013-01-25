@@ -440,6 +440,14 @@ footer li{
 	height: 460px;
 	}
 	
+	aside{
+	background-image: none;
+	background-color: #e85200;
+	}
+	
+	aside h2, aside p{
+	text-align: center;
+	}
 }
 
 /* mobile landscape size to tablet portrait size (devices and browsers)*/
