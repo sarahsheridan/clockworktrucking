@@ -83,19 +83,19 @@ h2{
 
 p{
 	padding: 3.125%; /*20px;*/
-	margin:0px;
+	margin:0%;
 	font-size:1em;
 	}
 	
 h3{
 	padding: 1.0416666667%; /*10px;*/
-	margin: 0px;
+	margin: 0%;
 	font-size:1.17em;
 	}
 	
 dl{
 	padding-bottom: 3.125%; /*20px;*/
-	margin: 0px;
+	margin: 0%;
 	font-size:1em;
 	}
 dt{
@@ -262,7 +262,7 @@ column-gap:10px;
 #equipmentgallery li{
 	list-style-type:none;
 	display: block;
-	padding:0px;
+	padding:0%;
 }
 
 #equipmentgallery img:hover{
@@ -393,7 +393,7 @@ footer ul{
 	font-size: 1em;
 	background-color:#ff7b00;
 	list-style-type:none;
-	margin: 0;
+	margin: 0%;
 	padding:2.083333333333% 0% 2.083333333333% 0%;/*20px 0px 20px 0px;*/
 	overflow:hidden;
 	}
