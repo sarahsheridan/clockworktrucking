@@ -29,6 +29,11 @@ table{
 
 table, th{
 	background-color: #e85200;
+	border:none;
+	}
+	
+tr, td{
+	border: none;
 	}
 	
 .oddtable{
