@@ -23,6 +23,23 @@ body{
 }
 /*general site elements--------------------------------------------------------------------*/
 
+table{
+	border-collapse:collapse;
+	}
+
+table, th{
+	border:1px solid black;
+	background-color: #e85200;
+	}
+	
+.oddtable{
+	background-color: #e8900c;
+	}
+	
+.eventable{
+	background-color: #ffb40d;
+	}
+
 #centerpic{
 	padding: 0% 20.833333333333%; /*0px 200px;*/
 	max-width: 60%;/*width="576" height="360"*/
