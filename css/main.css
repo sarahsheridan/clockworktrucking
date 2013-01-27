@@ -492,6 +492,10 @@ footer li{
 	text-align: center;
 	line-height: 1.5em;
 	}
+	
+	label{
+	clear:both;
+	}
 }
 
 /* mobile landscape size to tablet portrait size (devices and browsers)*/
@@ -537,6 +541,10 @@ footer li{
 	aside h2, aside p{
 	text-align: center;
 	line-height: 1.5em;
+	}
+	
+	label{
+	clear:both;
 	}
 
 }
