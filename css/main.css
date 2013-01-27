@@ -608,5 +608,13 @@ footer li{
 	footer li{
 	font-size: .8em;
 	}
+	
+	#contact-phone{
+	float:none;
+	}
+	
+	#contact-email{
+	float:none;
+	}
 
 }
