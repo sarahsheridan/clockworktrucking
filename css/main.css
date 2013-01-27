@@ -44,6 +44,10 @@ tr, td{
 .eventable{
 	background-color: #ffffff;
 	}
+	
+form{
+	margin:0% 2.0833333333%;
+	}
 
 #centerpic{
 	padding: 0% 20.833333333333%; /*0px 200px;*/
