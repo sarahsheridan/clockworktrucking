@@ -26,7 +26,6 @@ body{
 table{
 	border: none;
 	margin:0% 2.0833333333%;
-	float: left;
 	}
 
 table, th{
@@ -44,10 +43,6 @@ tr, td{
 	
 .eventable{
 	background-color: #ffffff;
-	}
-	
-form{
-	float:right;
 	}
 
 #centerpic{
