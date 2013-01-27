@@ -46,11 +46,11 @@ tr, td{
 	}
 	
 #contact-phone{
-	display: inline;
+	display: inline-block;
 	}
 	
 #contact-email{
-	display: inline;
+	display: inline-block;
 	}
 	
 label {
