@@ -625,8 +625,16 @@ footer li{
 	clear:both;
 	}
 	
+	#contact-email label{
+	width: 75%;
+	}
+	
 	#contact-phone{
 	clear:both;
+	}
+	
+	#contact-phone label{
+	width: 75%;
 	}
 
 }
