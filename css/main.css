@@ -59,6 +59,14 @@ label {
 	text-align:right;
 	}
 	
+#contact-email label{
+	width: 90%;
+	}
+	
+#contact-phone label{
+	width: 90%;
+	}
+	
 #submitbutton{
 	border:none;
 	background:none;
