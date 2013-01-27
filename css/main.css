@@ -62,6 +62,11 @@ label {
 	float:left;
 	text-align:right;
 	}
+	
+#submitbutton{
+	border:none;
+	background:none;
+	}
 
 #centerpic{
 	padding: 0% 20.833333333333%; /*0px 200px;*/
