@@ -48,6 +48,14 @@ tr, td{
 form{
 	margin:0% 2.0833333333%;
 	}
+	
+#contact-phone{
+	float:left;
+	}
+	
+#contact-email{
+	float:left;
+	}
 
 #centerpic{
 	padding: 0% 20.833333333333%; /*0px 200px;*/
