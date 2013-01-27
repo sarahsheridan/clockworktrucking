@@ -50,11 +50,11 @@ form{
 	}
 	
 #contact-phone{
-	float:left;
+	display: inline;
 	}
 	
 #contact-email{
-	float:left;
+	display: inline;
 	}
 
 #centerpic{
