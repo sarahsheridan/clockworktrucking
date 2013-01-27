@@ -610,11 +610,11 @@ footer li{
 	}
 	
 	#contact-phone{
-	float:none;
+	clear:both;
 	}
 	
 	#contact-email{
-	float:none;
+	clear:both;
 	}
 
 }
