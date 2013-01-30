@@ -29,7 +29,9 @@ table{
 	}
 
 table, th{
-	background-color: #e85200;
+	background: -webkit-gradient(linear, left top, left bottom, from(#faa51a), to(#f47a20));
+	background: -moz-linear-gradient(top,  #faa51a,  #f47a20);
+	filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#faa51a', endColorstr='#f47a20');
 	border:none;
 	}
 	
@@ -198,11 +200,16 @@ article{
 /*------------------------------------------------------------------------------------header*/
 
 header{
-	background-color: #ff7b00;
+	background: -webkit-gradient(linear, left top, left bottom, from(#faa51a), to(#f47a20));
+	background: -moz-linear-gradient(top,  #faa51a,  #f47a20);
+	filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#faa51a', endColorstr='#f47a20');
 	}
 
 h1{
 	background-color: #ff7b00;
+	background: -webkit-gradient(linear, left top, left bottom, from(#faa51a), to(#f47a20));
+	background: -moz-linear-gradient(top,  #faa51a,  #f47a20);
+	filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#faa51a', endColorstr='#f47a20');
 	font-size: 2em;
 	text-shadow: 1px 1px 10px #ffb40d;
 	line-height: 1.875em; /*60px;*/
@@ -250,6 +257,9 @@ nav a:link, nav a:visited{
 	font-weight:bold;
 	color:#000000;
 	background-color:#ff7b00;
+	background: -webkit-gradient(linear, left top, left bottom, from(#faa51a), to(#f47a20));
+	background: -moz-linear-gradient(top,  #faa51a,  #f47a20);
+	filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#faa51a', endColorstr='#f47a20');
 	text-align: left;
 	text-decoration:none;
 	line-height: 3.75em; /*60px;*/
