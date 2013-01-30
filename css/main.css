@@ -477,8 +477,10 @@ footer li{
 
 	h1{
 	float: none;
-	background-color: none;
+	}
 	
+	header{
+	background-color: #4f4f4f;
 	}
 	
 	nav ul{
@@ -540,7 +542,10 @@ footer li{
 	
 	h1{
 	float: none;
+	}
 	
+	header{
+	background-color: #4f4f4f;
 	}
 	
 	nav ul{
@@ -608,6 +613,10 @@ footer li{
 
 	h1{
 	float: none;
+	}
+	
+	header{
+	background-color: #4f4f4f;
 	}
 	
 	h2, h3{
